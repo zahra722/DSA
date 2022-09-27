@@ -13,5 +13,7 @@
 
 # using extended slicing
 
-strng = input("enter")
-print(strng[-1::-1])
+# strng = input("enter")
+# print(strng[-1::-1])
+
+
